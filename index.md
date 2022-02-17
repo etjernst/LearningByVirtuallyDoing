@@ -1,5 +1,7 @@
 <h1 style="color:#109d00">MahindiMaster</h1>
 
+<section class="pagetitle parallax parallax-image" style="background-image:img/mobile-logo.256colors.opt.png;">
+
 You can use the [editor on GitHub](https://github.com/etjernst/LearningByVirtuallyDoing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
