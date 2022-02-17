@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<h1 style="color:red">MahindiMaster</h1> 
 
 You can use the [editor on GitHub](https://github.com/etjernst/LearningByVirtuallyDoing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
