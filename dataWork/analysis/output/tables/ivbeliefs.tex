@@ -1,0 +1,45 @@
+\begin{table}[htbp]
+\centering
+\hspace*{-1.2cm}
+\begin{threeparttable}
+\caption{2SLS regression: effect of experimenting with lime on belief updating}
+\label{tab:ivBeliefs}
+\begin{tabular}{l cc}
+\hline
+\hline
+                    &\multicolumn{1}{c}{$\%\Delta$  Mean fert.}&\multicolumn{1}{c}{$\%\Delta$ Mean fert+lime}\\
+\hline
+\textit{First Stage}&               &               \\
+Share of rounds w/ poor rain&       0.870***&       0.870***\\
+                    &      (7.23)   &      (7.23)   \\
+Share of rounds w/ fair rain&       0.771***&       0.771***\\
+                    &      (7.72)   &      (7.72)   \\
+Share of rounds w/ good rain&       0.829***&       0.829***\\
+                    &      (7.93)   &      (7.93)   \\
+pH                  &     -0.0972***&     -0.0972***\\
+                    &     (-3.75)   &     (-3.75)   \\
+Intercept           &       0.343*  &       0.343*  \\
+                    &      (1.81)   &      (1.81)   \\
+\hline
+%
+%
+\textit{Second Stage}&                     &                     \\
+Share of rounds w/ lime&       73.68         &      143.04\sym{*}  \\
+            &     (52.40)         &     (60.00)         \\
+pH          &       62.15\sym{***}&       47.68\sym{*}  \\
+            &     (18.69)         &     (20.24)         \\
+Intercept   &     -351.72\sym{**} &     -273.08         \\
+            &    (132.33)         &    (143.22)         \\
+\hline
+$R^2$       &        0.07         &        0.03         \\
+N           &         175         &         175         \\
+Kleibergen-Paap F-stat&       35.60         &       35.60         \\
+\hline
+\hline
+\end{tabular}
+\begin{tablenotes}
+\footnotesize
+\item{Notes: Dependent variable: percentage change in mean of the subjective yields distribution for fertilizer and fertilizer + lime. Share of rounds played with lime is instrumented using the share of rounds that the respondent received good, fair, and bad rainfall draws (during rounds when they had no choice).) \\ Standard errors in parentheses \\ *\textit{p} $<$ 0.10, **\textit{p} $<$ 0.05, ***\textit{p} $<$ 0.01.}
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
