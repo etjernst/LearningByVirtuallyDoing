@@ -1,6 +1,6 @@
 <h1 style="color:#109d00">MahindiMaster</h1>
 
-![banner](assets/img/banner-large.jpg)
+![banner](banner-large.png)
 
 You can use the [editor on GitHub](https://github.com/etjernst/LearningByVirtuallyDoing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
