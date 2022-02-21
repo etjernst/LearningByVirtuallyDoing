@@ -12,4 +12,4 @@
 $header-heading-color: {{ site.color.header | default: "#fff" }} !default;
 $header-bg-color: {{ site.color.gradient_right | default: "#109d00" }} !default;
 $header-bg-color-secondary: {{ site.color.gradient_left | default: "#155799" }} !default;
-$header-bg-image: {{ assets/img/logo.png | default: "relative_url" }} !default;
+$header-bg-image: {{ /assets/img/logo.png | default: "relative_url" }} !default;
