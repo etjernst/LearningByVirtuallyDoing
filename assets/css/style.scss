@@ -19,5 +19,18 @@
   color:  "#fff";
   text-align: left;
   background-color:  "#FFFFFF";
-  background-image: url(/assets/img/logo.png);
+  background-image: url(assets/img/logo.png);
+  
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
+
