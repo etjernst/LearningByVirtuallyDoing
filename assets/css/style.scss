@@ -34,23 +34,6 @@
   }
 }
 
-.project-tagline {
-  opacity: 0.9;
-  color: #109d00
-    
-  @include large {
-    font-size: 1.25rem;
-  }
-
-  @include medium {
-    font-size: 1.15rem;
-  }
-
-  @include small {
-    font-size: 1rem;
-  }
-}
-
 .page-header {
   color: #fff;
   text-align: left;
@@ -60,10 +43,23 @@
   background-repeat: no-repeat;
   background-position: center right; 
   background-attachment: fixed; 
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+//  -webkit-background-size: contain;
+//  -moz-background-size: contain;
+//  -o-background-size: contain;
+//  background-size: contain;
   
+  .project-tagline {
+    opacity: 0.9;
+    color: #109d00 
+    @include large {
+      font-size: 1.25rem;
+    }
+    @include medium {
+      font-size: 1.15rem;
+    }
+    @include small {
+      font-size: 1rem;
+    }
+  }
 }
 
