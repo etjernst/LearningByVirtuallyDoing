@@ -2,17 +2,19 @@
 
 ![banner](assets/img/banner-large.png)
 
-You can use the [editor on GitHub](https://github.com/etjernst/LearningByVirtuallyDoing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MahindiMaster is an ambitious project that aims to combine crop modeling, rainfall data and soil information into an app that enables farmers to experiment and learn as they would on their own farm – without risking real investments in purchased inputs. The app enables farmer learning about the complex returns to – and interactions between – different fertilizer and input combinations and soil characteristics, on a virtual field that is calibrated to their own production conditions and context. By making extensive use of animations, we aim to make the app accessible to every type of farmer, including low-literacy smallholder populations, and to enhance the salience of virtual learning setting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## More stuff here
 
-### Markdown
+Text is easy as
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Code looks nice in markdown
+```python
+function = resize(x)
+```
 
+Markdown is easy to style
 ```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -29,11 +31,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etjernst/LearningByVirtuallyDoing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
