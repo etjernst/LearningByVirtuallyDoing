@@ -15,17 +15,38 @@
 // $header-bg-image: {{ /assets/img/logo.png | default: "relative_url" }} !default;
 
 
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+  
+  color: #109d00;
+  
+  @include large {
+    font-size: 3.25rem;
+  }
+
+  @include medium {
+    font-size: 2.25rem;
+  }
+
+  @include small {
+    font-size: 1.75rem;
+  }
+}
+
+
 .page-header {
   color: #fff;
   text-align: left;
   background-color: #FFFFFF;
   background-image: url(../img/logo.png);
   background-repeat: no-repeat;
-  background-position: center center; 
+  background-position: center right; 
   background-attachment: fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
   background-size: contain;
+  
 }
 
