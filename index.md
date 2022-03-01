@@ -1,7 +1,7 @@
 
 
 <a href="#what" target="_blank">
-  <button style="background-color: #109d0080; border: none; padding: 15px 15px; text-align: center; text-decoration: none;display: inline-block; font-size: 16px;">
+  <button style="background-color: #109d0080; border: none; padding: 15px 15px; text-align: center; text-decoration: none;display: inline-block; font-size: 16px; border-radius: 4px;">
     What?	
   </button>
 </a>
