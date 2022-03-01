@@ -1,25 +1,25 @@
 
 
 <a href="#what" target="_blank">
-  <button style="background-color: #109d0080; border: none; padding: 15px 15px; text-align: center; text-decoration: none;display: inline-block; font-size: 16px; border-radius: 4px;">
+  <button style="background-color: #109d0080; color: white; border: none; padding: 5px 5px; text-align: center; text-decoration: none;display: inline-block; font-size: 24px; border-radius: 4px;">
     What?	
   </button>
 </a>
 
 <a href="#who" target="_blank">
-  <button>
+  <button style="background-color: #109d0080; color: white; border: none; padding: 5px 5px; text-align: center; text-decoration: none;display: inline-block; font-size: 24px; border-radius: 4px;">
     Who?
   </button>
 </a>
   
 <a href="#media" target="_blank">
-  <button>
+  <button style="background-color: #109d0080; color: white; border: none; padding: 5px 5px; text-align: center; text-decoration: none;display: inline-block; font-size: 24px; border-radius: 4px;">
    Media
   </button>
 </a>
   
 <a href="#funding" target="_blank">
-  <button>
+  <button style="background-color: #109d0080; color: white; border: none; padding: 5px 5px; text-align: center; text-decoration: none;display: inline-block; font-size: 24px; border-radius: 4px;">
     Funding
   </button>
 </a>
