@@ -31,14 +31,12 @@
   color: #fff;
   text-align: left;
   background-color: #FFFFFF;
-  background-size: 250px auto;
+  background-size: 100px auto;
   background-image: url(../img/logo_cropped.png);
   background-repeat: no-repeat;
   background-position: top right; 
-  float: right;
-/*  background-attachment: fixed; */
-  padding-right: 20px;
-  padding-top: 20px;
+  float: left;
+  background-attachment: fixed;
   
   .project-tagline {
     opacity: 0.9;
