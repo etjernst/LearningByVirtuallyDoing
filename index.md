@@ -1,25 +1,28 @@
-.button {
-  background-color: #109d0080;
-  border: none;
-  color: white;
-  padding: 15px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
+
 
 <a href="#what" target="_blank">
-	<button>What?</button>
-  
+  <button style="background-color: #109d0080; border: none; padding: 15px 15px; text-align: center; text-decoration: none;display: inline-block; font-size: 16px;">
+    What?	
+  </button>
+</a>
+
 <a href="#who" target="_blank">
-	<button>Who?</button>
+  <button>
+    Who?
+  </button>
+</a>
   
 <a href="#media" target="_blank">
-	<button>Media</button>
+  <button>
+   Media
+  </button>
+</a>
   
 <a href="#funding" target="_blank">
-	<button>Funding</button>
+  <button>
+    Funding
+  </button>
+</a>
     
 ![banner](assets/img/banner-large.png)
 
