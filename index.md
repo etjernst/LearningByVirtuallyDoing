@@ -1,5 +1,3 @@
-<logo src="../img/logo_cropped.png" alt="MM logo">
-
 <a href="#what" target="_blank">
   <button style="background-color: #109d0080; color: white; border: none; padding: 5px 5px; text-align: center; text-decoration: none;display: inline-block; font-size: 24px; border-radius: 4px;">
     What?</button></a>
