@@ -27,15 +27,24 @@
   }
 }
 
+.hero-image {
+  background-image: url(../img/logo_cropped.png);
+  background-color: #cccccc;
+  height: 200px;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 .page-header {
   color: #fff;
   text-align: left;
   background-color: #FFFFFF;
-/*  background-size: 200px auto; */
   background-repeat: no-repeat;
-  background-position: top right; 
+  background-position: top right;
   background-attachment: fixed;
-  background-image: url(../img/logo_cropped.png) cover;
+/*  background-image: url(../img/logo_cropped.png); */
   
   .project-tagline {
     opacity: 0.9;
