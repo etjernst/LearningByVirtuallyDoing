@@ -1,4 +1,5 @@
-<a href="#what" target="_blank">
+<div class="hero-image">
+  <a href="#what" target="_blank">
   <button style="background-color: #109d0080; color: white; border: none; padding: 5px 5px; text-align: center; text-decoration: none;display: inline-block; font-size: 24px; border-radius: 4px;">
     What?</button></a>
 <a href="#who" target="_blank">
@@ -10,6 +11,9 @@
 <a href="#funding" target="_blank">
   <button style="background-color: #109d0080; color: white; border: none; padding: 5px 5px; text-align: center; text-decoration: none;display: inline-block; font-size: 24px; border-radius: 4px;">
     Funding</button></a>
+</div>
+
+
     
 ![banner](assets/img/banner-large.png)
 
