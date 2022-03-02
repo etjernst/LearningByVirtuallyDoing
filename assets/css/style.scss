@@ -37,11 +37,10 @@
   .hero-image {
     background-image: url(../img/logo_cropped.png);
     background-color: #cccccc;
-    height: 200px;
-    background-position: right;
-    background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    background-position: right;
+    padding: 15px;
+    background-repeat: no-repeat;
   }
 /*  background-image: url(../img/logo_cropped.png); */
   
