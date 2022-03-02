@@ -27,6 +27,13 @@
   }
 }
 
+.logo {
+  border: none;
+  padding: 10px;
+  max-width: 200px;
+  float:right;
+}
+
 .page-header {
   color: #fff;
   text-align: left;
@@ -37,8 +44,6 @@
   background-attachment: fixed;
 /*  background-image: url(../img/logo_cropped.png); */
 /*  background-size: 200px auto; */
-  }
- 
   
   .project-tagline {
     opacity: 0.9;
