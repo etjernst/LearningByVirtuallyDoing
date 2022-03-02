@@ -31,15 +31,11 @@
   color: #fff;
   text-align: left;
   background-color: #FFFFFF;
-  background-size: 200px auto;
+/*  background-size: 200px auto; */
   background-repeat: no-repeat;
   background-position: top right; 
   background-attachment: fixed;
-  img {
-    background-image: url(../img/logo_cropped.png);
-    max-width: 30%;
-    padding: 15px;
-  }
+  background-image: url(../img/logo_cropped.png), background-size: cover, padding:15px;
   
   .project-tagline {
     opacity: 0.9;
